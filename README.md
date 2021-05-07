@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @fidelserna
+- 👀 I’m interested in ...
+Learning about programming
+- 🌱 I’m currently learning ...
+being a novice at coding
+- 💞️ I’m looking to collaborate on ...
+Making useful websites for healthcare providers and fintech
+- 📫 How to reach me ...
+
+<!---
+fidelserna/fidelserna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
